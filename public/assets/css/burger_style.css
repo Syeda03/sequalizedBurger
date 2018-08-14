@@ -1,0 +1,120 @@
+body {
+	background-color: #c5bfaf ;
+	background-image: url("../img/background.jpg");
+	
+}
+hr{
+	color: red
+
+}
+header {
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	color:red;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+	text-align: center;
+}
+
+section {
+	float: left;
+	width: 50%;
+}
+
+span {
+	float: left;
+}
+
+#burger-list {
+	margin-left: 10%;
+}
+
+#burger-list-item {
+	background: rgb(247, 208, 83);
+  	padding-left: 5%;
+  	padding-top: 1%;
+  	padding-bottom: 2%;
+  	border: 1%;
+}
+
+#burger-submit {
+	float: right;
+	vertical-align: top;
+	background: rgb(247, 208, 83);
+}
+
+#devour-button {
+	position: relative;
+	bottom: -14px;
+	margin-left: 4%;
+}
+
+#hamburger-image {
+	width: 15%;
+	position: relative;
+	left: 39%;
+}
+
+#new-burger {
+	clear: both;
+	margin-left: 24%;
+	width: 55%;
+}
+
+#new-burger-submit {
+	position: relative;
+	left: 50%;
+	background: rgb(247, 208, 83);
+	color: black;
+}
+
+#new-burger-text {
+	background: rgb(192, 111, 46);
+	color: black;
+	width: 60%;
+	position: relative;
+	left: 20%;
+
+}
+
+
+.burgers {
+	width:	70%;
+	background: rgb(192, 111, 46);
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+	margin: 1%;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.devour-burger {
+	width: 60%;
+	background: rgb(192, 111, 46);
+	border-style: dotted;
+	border-width: 1px;
+  	padding-left: 5%;
+  	padding-top: 1%;
+  	padding-bottom: 2%;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  color: black;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+}
+
